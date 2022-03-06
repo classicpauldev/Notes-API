@@ -1,1 +1,1 @@
-Implemented dark mode in UI
+Added social login support
