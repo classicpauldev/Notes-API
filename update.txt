@@ -1,1 +1,1 @@
-Added social login support
+Improved password reset email template
