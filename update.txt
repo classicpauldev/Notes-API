@@ -1,1 +1,1 @@
-Fixed bugs in the authentication flow
+Refactored database models for scalability
