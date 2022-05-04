@@ -1,1 +1,1 @@
-Enhanced user authentication flow
+Fixed session persistence issues
