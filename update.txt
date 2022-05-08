@@ -1,1 +1,1 @@
-Improved password reset email template
+Optimized image loading for performance
